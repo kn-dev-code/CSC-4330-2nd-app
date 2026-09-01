@@ -1,17 +1,50 @@
-# flutter_2nd_app
+# 🚀 About Me App
 
-A new Flutter project.
+Welcome to our project! This is a Flutter application designed to showcase custom "About Me" pages for **Kyle** and **Gabriel**. 
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 👥 Meet the Developers
 
-A few resources to get you started if this is your first Flutter project:
+### 👨‍💻 Kyle
+* **Role:** Mobile App Developer / Contributor
+* **Tech Stack interests:** Flutter, Dart, Git Version Control
+* **What I worked on:** Setting up custom application routing, layout structuring, and building interactive UI widgets.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### 👨‍💻 Gabriel
+* **Role:** Mobile App Developer / Contributor
+* **Tech Stack interests:** UI/UX Design, Flutter Widgets, Cross-Platform Architecture
+* **What I worked on:** Designing visual profile elements, handling text themes, and managing application state.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tech Stack & Features
+* **Framework:** [Flutter](https://flutter.dev) 
+* **Language:** [Dart](https://dart.dev)
+* **Features:** 
+  * Seamless cross-platform responsiveness (iOS, Android, Web, and Desktop)
+  * Customized profile widgets and dynamic user components
+  * Clean directory structure separating user modules
+
+---
+
+## ⚙️ Getting Started
+
+To get a local copy up and running, follow these simple steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com
+   ```
+2. **Navigate into the directory:**
+   ```bash
+   cd flutter_2nd_app
+   ```
+3. **Get Flutter packages:**
+   ```bash
+   flutter pub get
+   ```
+4. **Run the application:**
+   ```bash
+   flutter run
+   ```
