@@ -14,7 +14,7 @@ Welcome to our project! This is a Flutter application designed to showcase custo
 ### 👨‍💻 Gabriel
 * **Role:** Mobile App Developer / Contributor
 * **Tech Stack interests:** UI/UX Design, Flutter Widgets, Cross-Platform Architecture
-* **What I worked on:** Designing visual profile elements, handling text themes, and managing application state.
+* **What I worked on:** Designing visual profile elements, handling text themes, managing application state, and assisted in interactive widgets.
 
 ---
 
